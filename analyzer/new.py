@@ -15,6 +15,7 @@ Moves files accordingly:
 import json, hashlib, shutil
 from pathlib import Path
 import pikepdf
+import sys
 
 QUEUE = Path("data/queue/")
 ACCEPT = Path("data/accepted/")
@@ -51,7 +52,7 @@ def extract_keys(path):
 
         # Streams have dicts too
         if isinstance(obj, pikepdf.Stream):
-            d = obj.get_dict()
+            d = obj.as_dict() # Originally was # obj.get_dict()
             for key in d.keys():
                 if isinstance(key, pikepdf.Name):
                     newkeys.add(str(key))
@@ -61,8 +62,11 @@ def extract_keys(path):
 
 def main():
     global keys_seen
-
-    for pdf in QUEUE.iterdir():
+    if len(sys.argv) == 2: # Do the stuff...
+        target_queue = Path(str(sys.argv[1]))
+    else:
+        target_queue = QUEUE
+    for pdf in target_queue.iterdir():
         if not pdf.name.lower().endswith(".pdf"):
             continue
 
