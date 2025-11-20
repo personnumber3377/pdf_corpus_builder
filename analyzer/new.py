@@ -57,7 +57,7 @@ def extract_keys(path):
             for key in d.keys():
                 if isinstance(key, pikepdf.Name):
                     newkeys.add(str(key))
-
+    print(newkeys)
     return newkeys
 
 
