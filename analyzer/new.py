@@ -48,17 +48,19 @@ def extract_keys(path):
     for obj in list(pdf.objects)[:MAX_OBJECTS]:
         if isinstance(obj, pikepdf.Dictionary):
             for key in obj.keys():
-                print("key: "+str(key))
-                if isinstance(key, pikepdf.Name):
-                    newkeys.add(str(key))
+                #print("key: "+str(key)+" type of: "+str(type(key)))
+                #if isinstance(key, pikepdf.Name):
+                
+                newkeys.add(str(key))
 
         # Streams have dicts too
         if isinstance(obj, pikepdf.Stream):
             d = obj.as_dict() # Originally was # obj.get_dict()
             for key in d.keys():
-                if isinstance(key, pikepdf.Name):
-                    newkeys.add(str(key))
-    print(newkeys)
+                # if isinstance(key, pikepdf.Name):
+                newkeys.add(str(key))
+
+    # print(newkeys)
     return newkeys
 
 
