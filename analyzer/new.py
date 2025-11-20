@@ -31,10 +31,11 @@ if KEYFILE.exists():
 else:
     keys_seen = set()
 
-MAX_OBJECTS = 200  # scan deeper than before
+MAX_OBJECTS = 20000  # scan deeper than before
 
 
 def extract_keys(path):
+    print(path)
     """Return a set of all dictionary keys in the PDF."""
     try:
         pdf = pikepdf.Pdf.open(path)
@@ -75,7 +76,7 @@ def main():
         # Failed to read
         if keys is None:
             print("[-] Bad PDF:", pdf)
-            shutil.move(str(pdf), REJECT / pdf.name)
+            shutil.copy(str(pdf), REJECT / pdf.name)
             continue
 
         # Compare against global set
@@ -84,11 +85,11 @@ def main():
         if new_keys:
             print(f"[+] NEW KEYS {pdf} :: {list(new_keys)[:10]}")
             keys_seen |= new_keys  # update global keyset
-            shutil.move(str(pdf), ACCEPT / pdf.name)
+            shutil.copy(str(pdf), ACCEPT / pdf.name)
 
         else:
             print(f"[x] NO NEW KEYS: {pdf}")
-            shutil.move(str(pdf), REJECT / pdf.name)
+            shutil.copy(str(pdf), REJECT / pdf.name)
 
         # Save updated key set after every PDF
         KEYFILE.write_text(json.dumps(sorted(list(keys_seen)), indent=2))

@@ -1,0 +1,1572 @@
+testset/issue18117.pdf
+[x] NO NEW KEYS: testset/issue18117.pdf
+testset/issue5801.pdf
+[x] NO NEW KEYS: testset/issue5801.pdf
+testset/quadpoints.pdf
+[x] NO NEW KEYS: testset/quadpoints.pdf
+testset/issue20102.pdf
+[x] NO NEW KEYS: testset/issue20102.pdf
+testset/freeculture.pdf
+[x] NO NEW KEYS: testset/freeculture.pdf
+testset/poppler-742-0-fuzzed.pdf
+[-] Bad PDF: testset/poppler-742-0-fuzzed.pdf
+testset/issue3928.pdf
+[x] NO NEW KEYS: testset/issue3928.pdf
+testset/arial_unicode_en_cidfont.pdf
+[x] NO NEW KEYS: testset/arial_unicode_en_cidfont.pdf
+testset/alphatrans.pdf
+[x] NO NEW KEYS: testset/alphatrans.pdf
+testset/PDFJS-9279-reduced.pdf
+[x] NO NEW KEYS: testset/PDFJS-9279-reduced.pdf
+testset/bug766086.pdf
+[x] NO NEW KEYS: testset/bug766086.pdf
+testset/issue7406.pdf
+[x] NO NEW KEYS: testset/issue7406.pdf
+testset/issue6769.pdf
+[x] NO NEW KEYS: testset/issue6769.pdf
+testset/bug1997343.pdf
+[x] NO NEW KEYS: testset/bug1997343.pdf
+testset/issue15753.pdf
+[x] NO NEW KEYS: testset/issue15753.pdf
+testset/issue9534_reduced.pdf
+[x] NO NEW KEYS: testset/issue9534_reduced.pdf
+testset/issue11144_reduced.pdf
+[x] NO NEW KEYS: testset/issue11144_reduced.pdf
+testset/issue13269.pdf
+[x] NO NEW KEYS: testset/issue13269.pdf
+testset/issue7580.pdf
+[x] NO NEW KEYS: testset/issue7580.pdf
+testset/S2.pdf
+[x] NO NEW KEYS: testset/S2.pdf
+testset/issue8111.pdf
+[x] NO NEW KEYS: testset/issue8111.pdf
+testset/issue19207.pdf
+[x] NO NEW KEYS: testset/issue19207.pdf
+testset/bug1795263.pdf
+[x] NO NEW KEYS: testset/bug1795263.pdf
+testset/issue2177.pdf
+[x] NO NEW KEYS: testset/issue2177.pdf
+testset/issue14438.pdf
+[x] NO NEW KEYS: testset/issue14438.pdf
+testset/issue10900.pdf
+[x] NO NEW KEYS: testset/issue10900.pdf
+testset/issue14117.pdf
+[x] NO NEW KEYS: testset/issue14117.pdf
+testset/issue14814.pdf
+[x] NO NEW KEYS: testset/issue14814.pdf
+testset/issue14705.pdf
+[x] NO NEW KEYS: testset/issue14705.pdf
+testset/issue8570.pdf
+[x] NO NEW KEYS: testset/issue8570.pdf
+testset/issue15594_reduced.pdf
+[x] NO NEW KEYS: testset/issue15594_reduced.pdf
+testset/issue18036.pdf
+[x] NO NEW KEYS: testset/issue18036.pdf
+testset/issue19971.pdf
+[x] NO NEW KEYS: testset/issue19971.pdf
+testset/issue2537r.pdf
+[x] NO NEW KEYS: testset/issue2537r.pdf
+testset/issue7229.pdf
+[x] NO NEW KEYS: testset/issue7229.pdf
+testset/annotation-line-without-appearance.pdf
+[x] NO NEW KEYS: testset/annotation-line-without-appearance.pdf
+testset/issue17554.pdf
+[x] NO NEW KEYS: testset/issue17554.pdf
+testset/jbig2_symbol_offset.pdf
+[x] NO NEW KEYS: testset/jbig2_symbol_offset.pdf
+testset/issue14415.pdf
+[x] NO NEW KEYS: testset/issue14415.pdf
+testset/helloworld-bad.pdf
+[x] NO NEW KEYS: testset/helloworld-bad.pdf
+testset/issue19505.pdf
+[x] NO NEW KEYS: testset/issue19505.pdf
+testset/checkbox-bad-appearance.pdf
+[x] NO NEW KEYS: testset/checkbox-bad-appearance.pdf
+testset/issue15716.pdf
+[x] NO NEW KEYS: testset/issue15716.pdf
+testset/issue269_2.pdf
+[x] NO NEW KEYS: testset/issue269_2.pdf
+testset/issue5044.pdf
+[x] NO NEW KEYS: testset/issue5044.pdf
+testset/secHandler.pdf
+[x] NO NEW KEYS: testset/secHandler.pdf
+testset/shading_extend.pdf
+[x] NO NEW KEYS: testset/shading_extend.pdf
+testset/issue17492.pdf
+[x] NO NEW KEYS: testset/issue17492.pdf
+testset/issue16316.pdf
+[x] NO NEW KEYS: testset/issue16316.pdf
+testset/issue4398.pdf
+[x] NO NEW KEYS: testset/issue4398.pdf
+testset/xfa_filled_imm1344e.pdf
+[x] NO NEW KEYS: testset/xfa_filled_imm1344e.pdf
+testset/colorspace_sin.pdf
+[x] NO NEW KEYS: testset/colorspace_sin.pdf
+testset/issue16278.pdf
+[x] NO NEW KEYS: testset/issue16278.pdf
+testset/issue12418_reduced.pdf
+[x] NO NEW KEYS: testset/issue12418_reduced.pdf
+testset/issue8092.pdf
+[x] NO NEW KEYS: testset/issue8092.pdf
+testset/issue6961.pdf
+[x] NO NEW KEYS: testset/issue6961.pdf
+testset/transparency_group.pdf
+[x] NO NEW KEYS: testset/transparency_group.pdf
+testset/fields_order.pdf
+[x] NO NEW KEYS: testset/fields_order.pdf
+testset/annotation-text-widget.pdf
+[x] NO NEW KEYS: testset/annotation-text-widget.pdf
+testset/issue9243.pdf
+[x] NO NEW KEYS: testset/issue9243.pdf
+testset/scorecard_reduced.pdf
+[x] NO NEW KEYS: testset/scorecard_reduced.pdf
+testset/issue15443.pdf
+[x] NO NEW KEYS: testset/issue15443.pdf
+testset/issue14165.pdf
+[x] NO NEW KEYS: testset/issue14165.pdf
+testset/issue4800.pdf
+[x] NO NEW KEYS: testset/issue4800.pdf
+testset/bug1151216.pdf
+[x] NO NEW KEYS: testset/bug1151216.pdf
+testset/copy_paste_ligatures.pdf
+[x] NO NEW KEYS: testset/copy_paste_ligatures.pdf
+testset/annotation_hidden_print.pdf
+[x] NO NEW KEYS: testset/annotation_hidden_print.pdf
+testset/bug1963407.pdf
+[x] NO NEW KEYS: testset/bug1963407.pdf
+testset/issue12007_reduced.pdf
+[x] NO NEW KEYS: testset/issue12007_reduced.pdf
+testset/issue16742.pdf
+[x] NO NEW KEYS: testset/issue16742.pdf
+testset/glyph_accent.pdf
+[x] NO NEW KEYS: testset/glyph_accent.pdf
+testset/bug1907000_reduced.pdf
+[x] NO NEW KEYS: testset/bug1907000_reduced.pdf
+testset/xfa_issue14315.pdf
+[x] NO NEW KEYS: testset/xfa_issue14315.pdf
+testset/issue8187.pdf
+[x] NO NEW KEYS: testset/issue8187.pdf
+testset/bug1708040.pdf
+[x] NO NEW KEYS: testset/bug1708040.pdf
+testset/annotation-highlight.pdf
+[x] NO NEW KEYS: testset/annotation-highlight.pdf
+testset/issue16473.pdf
+[x] NO NEW KEYS: testset/issue16473.pdf
+testset/issue18986.pdf
+[-] Bad PDF: testset/issue18986.pdf
+testset/issue2391-2.pdf
+[x] NO NEW KEYS: testset/issue2391-2.pdf
+testset/issue3263r.pdf
+[x] NO NEW KEYS: testset/issue3263r.pdf
+testset/issue6179_reduced.pdf
+[x] NO NEW KEYS: testset/issue6179_reduced.pdf
+testset/issue17065.pdf
+[x] NO NEW KEYS: testset/issue17065.pdf
+testset/annotation-button-widget.pdf
+[x] NO NEW KEYS: testset/annotation-button-widget.pdf
+testset/bug878026.pdf
+[x] NO NEW KEYS: testset/bug878026.pdf
+testset/openoffice.pdf
+[x] NO NEW KEYS: testset/openoffice.pdf
+testset/pr7352.pdf
+[x] NO NEW KEYS: testset/pr7352.pdf
+testset/issue19182.pdf
+[x] NO NEW KEYS: testset/issue19182.pdf
+testset/issue1512r.pdf
+[x] NO NEW KEYS: testset/issue1512r.pdf
+testset/issue14565.pdf
+[x] NO NEW KEYS: testset/issue14565.pdf
+testset/issue2099-1.pdf
+[x] NO NEW KEYS: testset/issue2099-1.pdf
+testset/issue14130.pdf
+[x] NO NEW KEYS: testset/issue14130.pdf
+testset/poppler-395-0-fuzzed.pdf
+[-] Bad PDF: testset/poppler-395-0-fuzzed.pdf
+testset/issue14627.pdf
+[x] NO NEW KEYS: testset/issue14627.pdf
+testset/issue7180.pdf
+[x] NO NEW KEYS: testset/issue7180.pdf
+testset/issue12010_reduced.pdf
+[x] NO NEW KEYS: testset/issue12010_reduced.pdf
+testset/bug860632.pdf
+[x] NO NEW KEYS: testset/bug860632.pdf
+testset/issue7014.pdf
+[x] NO NEW KEYS: testset/issue7014.pdf
+testset/issue7403.pdf
+[x] NO NEW KEYS: testset/issue7403.pdf
+testset/complex_ttf_font.pdf
+[x] NO NEW KEYS: testset/complex_ttf_font.pdf
+testset/issue18823.pdf
+[x] NO NEW KEYS: testset/issue18823.pdf
+testset/issue5686.pdf
+[x] NO NEW KEYS: testset/issue5686.pdf
+testset/transparent.pdf
+[x] NO NEW KEYS: testset/transparent.pdf
+testset/issue17671.pdf
+[x] NO NEW KEYS: testset/issue17671.pdf
+testset/issue11242_reduced.pdf
+[x] NO NEW KEYS: testset/issue11242_reduced.pdf
+testset/issue16176.pdf
+[x] NO NEW KEYS: testset/issue16176.pdf
+testset/inks.pdf
+[x] NO NEW KEYS: testset/inks.pdf
+testset/issue19550.pdf
+[x] NO NEW KEYS: testset/issue19550.pdf
+testset/noembed-identity-2.pdf
+[x] NO NEW KEYS: testset/noembed-identity-2.pdf
+testset/js-authors.pdf
+[x] NO NEW KEYS: testset/js-authors.pdf
+testset/bug1365930.pdf
+[x] NO NEW KEYS: testset/bug1365930.pdf
+testset/bug1175962.pdf
+[x] NO NEW KEYS: testset/bug1175962.pdf
+testset/issue8844.pdf
+[x] NO NEW KEYS: testset/issue8844.pdf
+testset/issue11922_reduced.pdf
+[x] NO NEW KEYS: testset/issue11922_reduced.pdf
+testset/extract_link.pdf
+[x] NO NEW KEYS: testset/extract_link.pdf
+testset/simpletype3font.pdf
+[x] NO NEW KEYS: testset/simpletype3font.pdf
+testset/issue15012.pdf
+[x] NO NEW KEYS: testset/issue15012.pdf
+testset/issue215.pdf
+[x] NO NEW KEYS: testset/issue215.pdf
+testset/issue7847_radial.pdf
+[x] NO NEW KEYS: testset/issue7847_radial.pdf
+testset/issue6108.pdf
+[x] NO NEW KEYS: testset/issue6108.pdf
+testset/annotation-choice-widget.pdf
+[x] NO NEW KEYS: testset/annotation-choice-widget.pdf
+testset/german-umlaut-r.pdf
+[x] NO NEW KEYS: testset/german-umlaut-r.pdf
+testset/bug1057544.pdf
+[x] NO NEW KEYS: testset/bug1057544.pdf
+testset/issue8823.pdf
+[x] NO NEW KEYS: testset/issue8823.pdf
+testset/issue9105_other.pdf
+[x] NO NEW KEYS: testset/issue9105_other.pdf
+testset/issue6010_2.pdf
+[-] Bad PDF: testset/issue6010_2.pdf
+testset/issue3521.pdf
+[x] NO NEW KEYS: testset/issue3521.pdf
+testset/issue19800.pdf
+[x] NO NEW KEYS: testset/issue19800.pdf
+testset/bug1011159.pdf
+[-] Bad PDF: testset/bug1011159.pdf
+testset/bug1252420.pdf
+[x] NO NEW KEYS: testset/bug1252420.pdf
+testset/issue9458.pdf
+[x] NO NEW KEYS: testset/issue9458.pdf
+testset/issue11150_reduced.pdf
+[x] NO NEW KEYS: testset/issue11150_reduced.pdf
+testset/issue925.pdf
+[x] NO NEW KEYS: testset/issue925.pdf
+testset/bug1782564.pdf
+[x] NO NEW KEYS: testset/bug1782564.pdf
+testset/annotation-line.pdf
+[x] NO NEW KEYS: testset/annotation-line.pdf
+testset/bug1392647.pdf
+[x] NO NEW KEYS: testset/bug1392647.pdf
+testset/issue16538.pdf
+[x] NO NEW KEYS: testset/issue16538.pdf
+testset/bug1771477.pdf
+[x] NO NEW KEYS: testset/bug1771477.pdf
+testset/issue12798_page1_reduced.pdf
+[x] NO NEW KEYS: testset/issue12798_page1_reduced.pdf
+testset/issue5540.pdf
+[x] NO NEW KEYS: testset/issue5540.pdf
+testset/issue18099_reduced.pdf
+[x] NO NEW KEYS: testset/issue18099_reduced.pdf
+testset/issue12295.pdf
+[x] NO NEW KEYS: testset/issue12295.pdf
+testset/issue5704.pdf
+[x] NO NEW KEYS: testset/issue5704.pdf
+testset/TAMReview.pdf
+[x] NO NEW KEYS: testset/TAMReview.pdf
+testset/issue6336.pdf
+[x] NO NEW KEYS: testset/issue6336.pdf
+testset/doc_1_3_pages.pdf
+[x] NO NEW KEYS: testset/doc_1_3_pages.pdf
+testset/issue7492.pdf
+[x] NO NEW KEYS: testset/issue7492.pdf
+testset/issue7115.pdf
+[x] NO NEW KEYS: testset/issue7115.pdf
+testset/bug847420.pdf
+[x] NO NEW KEYS: testset/bug847420.pdf
+testset/Pages-tree-refs.pdf
+[-] Bad PDF: testset/Pages-tree-refs.pdf
+testset/annotation-underline.pdf
+[x] NO NEW KEYS: testset/annotation-underline.pdf
+testset/bug850854.pdf
+[x] NO NEW KEYS: testset/bug850854.pdf
+testset/rotated.pdf
+[x] NO NEW KEYS: testset/rotated.pdf
+testset/poppler-67295-0.pdf
+[x] NO NEW KEYS: testset/poppler-67295-0.pdf
+testset/issue19083.pdf
+[x] NO NEW KEYS: testset/issue19083.pdf
+testset/issue5751.pdf
+[x] NO NEW KEYS: testset/issue5751.pdf
+testset/bug1885505.pdf
+[x] NO NEW KEYS: testset/bug1885505.pdf
+testset/bug1799927.pdf
+[x] NO NEW KEYS: testset/bug1799927.pdf
+testset/issue6296.pdf
+[x] NO NEW KEYS: testset/issue6296.pdf
+testset/file_url_link.pdf
+[x] NO NEW KEYS: testset/file_url_link.pdf
+testset/bug1811510.pdf
+[x] NO NEW KEYS: testset/bug1811510.pdf
+testset/bug1947248_forms.pdf
+[x] NO NEW KEYS: testset/bug1947248_forms.pdf
+testset/issue1002.pdf
+[x] NO NEW KEYS: testset/issue1002.pdf
+testset/bug1889122.pdf
+[x] NO NEW KEYS: testset/bug1889122.pdf
+testset/issue18030.pdf
+[x] NO NEW KEYS: testset/issue18030.pdf
+testset/bug1046314.pdf
+[x] NO NEW KEYS: testset/bug1046314.pdf
+testset/issue13931.pdf
+[x] NO NEW KEYS: testset/issue13931.pdf
+testset/issue7101.pdf
+[x] NO NEW KEYS: testset/issue7101.pdf
+testset/non-embedded-NuptialScript.pdf
+[x] NO NEW KEYS: testset/non-embedded-NuptialScript.pdf
+testset/issue15893_reduced.pdf
+[-] Bad PDF: testset/issue15893_reduced.pdf
+testset/issue9655_reduced.pdf
+[x] NO NEW KEYS: testset/issue9655_reduced.pdf
+testset/asciihexdecode.pdf
+[x] NO NEW KEYS: testset/asciihexdecode.pdf
+testset/bug1937438_from_word.pdf
+[x] NO NEW KEYS: testset/bug1937438_from_word.pdf
+testset/issue18645.pdf
+[x] NO NEW KEYS: testset/issue18645.pdf
+testset/colorspace_cos.pdf
+[x] NO NEW KEYS: testset/colorspace_cos.pdf
+testset/issue5010.pdf
+[x] NO NEW KEYS: testset/issue5010.pdf
+testset/colorspace_atan.pdf
+[x] NO NEW KEYS: testset/colorspace_atan.pdf
+testset/bug1539074.1.pdf
+[x] NO NEW KEYS: testset/bug1539074.1.pdf
+testset/bug1513120_reduced.pdf
+[x] NO NEW KEYS: testset/bug1513120_reduced.pdf
+testset/issue17904.pdf
+[x] NO NEW KEYS: testset/issue17904.pdf
+testset/ZapfDingbats.pdf
+[x] NO NEW KEYS: testset/ZapfDingbats.pdf
+testset/bug1989304.pdf
+[x] NO NEW KEYS: testset/bug1989304.pdf
+testset/issue17064_readonly.pdf
+[x] NO NEW KEYS: testset/issue17064_readonly.pdf
+testset/bug886717.pdf
+[x] NO NEW KEYS: testset/bug886717.pdf
+testset/issue10519_reduced.pdf
+[x] NO NEW KEYS: testset/issue10519_reduced.pdf
+testset/pr19449.pdf
+[x] NO NEW KEYS: testset/pr19449.pdf
+testset/issue6612.pdf
+[x] NO NEW KEYS: testset/issue6612.pdf
+testset/issue5202.pdf
+[x] NO NEW KEYS: testset/issue5202.pdf
+testset/issue15372.pdf
+[x] NO NEW KEYS: testset/issue15372.pdf
+testset/dates_save.pdf
+[x] NO NEW KEYS: testset/dates_save.pdf
+testset/bug1919513.pdf
+[x] NO NEW KEYS: testset/bug1919513.pdf
+testset/issue17848.pdf
+[x] NO NEW KEYS: testset/issue17848.pdf
+testset/bug1871353.1.pdf
+[x] NO NEW KEYS: testset/bug1871353.1.pdf
+testset/issue6605.pdf
+[x] NO NEW KEYS: testset/issue6605.pdf
+testset/noembed-jis7.pdf
+[x] NO NEW KEYS: testset/noembed-jis7.pdf
+testset/bug1802888.pdf
+[x] NO NEW KEYS: testset/bug1802888.pdf
+testset/issue15367.pdf
+[x] NO NEW KEYS: testset/issue15367.pdf
+testset/tiling-pattern-large-steps.pdf
+[x] NO NEW KEYS: testset/tiling-pattern-large-steps.pdf
+testset/issue18694.pdf
+[x] NO NEW KEYS: testset/issue18694.pdf
+testset/stamps.pdf
+[x] NO NEW KEYS: testset/stamps.pdf
+testset/bug1947248_text.pdf
+[x] NO NEW KEYS: testset/bug1947248_text.pdf
+testset/bug1020858.pdf
+[x] NO NEW KEYS: testset/bug1020858.pdf
+testset/issue14497.pdf
+[x] NO NEW KEYS: testset/issue14497.pdf
+testset/annotation-fileattachment.pdf
+[x] NO NEW KEYS: testset/annotation-fileattachment.pdf
+testset/issue6652.pdf
+[x] NO NEW KEYS: testset/issue6652.pdf
+testset/issue19802.pdf
+[x] NO NEW KEYS: testset/issue19802.pdf
+testset/calgray.pdf
+[x] NO NEW KEYS: testset/calgray.pdf
+testset/issue7598.pdf
+[x] NO NEW KEYS: testset/issue7598.pdf
+testset/issue14200.pdf
+[x] NO NEW KEYS: testset/issue14200.pdf
+testset/issue15759.pdf
+[x] NO NEW KEYS: testset/issue15759.pdf
+testset/poppler-90-0-fuzzed.pdf
+[x] NO NEW KEYS: testset/poppler-90-0-fuzzed.pdf
+testset/attachment.pdf
+[x] NO NEW KEYS: testset/attachment.pdf
+testset/bug1250079.pdf
+[x] NO NEW KEYS: testset/bug1250079.pdf
+testset/annotation-line-without-appearance-empty-Rect.pdf
+[x] NO NEW KEYS: testset/annotation-line-without-appearance-empty-Rect.pdf
+testset/bug1146106.pdf
+[x] NO NEW KEYS: testset/bug1146106.pdf
+testset/issue11768_reduced.pdf
+[x] NO NEW KEYS: testset/issue11768_reduced.pdf
+testset/basicapi.pdf
+[x] NO NEW KEYS: testset/basicapi.pdf
+testset/PDFBOX-4352-0.pdf
+[-] Bad PDF: testset/PDFBOX-4352-0.pdf
+testset/issue7891_bc0.pdf
+[x] NO NEW KEYS: testset/issue7891_bc0.pdf
+testset/bug1851498.pdf
+[x] NO NEW KEYS: testset/bug1851498.pdf
+testset/issue3405r.pdf
+[x] NO NEW KEYS: testset/issue3405r.pdf
+testset/issue5070.pdf
+[x] NO NEW KEYS: testset/issue5070.pdf
+testset/bug1820909.1.pdf
+[x] NO NEW KEYS: testset/bug1820909.1.pdf
+testset/rotated_ink.pdf
+[x] NO NEW KEYS: testset/rotated_ink.pdf
+testset/issue1249.pdf
+[x] NO NEW KEYS: testset/issue1249.pdf
+testset/issue19360.pdf
+[x] NO NEW KEYS: testset/issue19360.pdf
+testset/issue1905.pdf
+[x] NO NEW KEYS: testset/issue1905.pdf
+testset/colors.pdf
+[x] NO NEW KEYS: testset/colors.pdf
+testset/issue5244.pdf
+[x] NO NEW KEYS: testset/issue5244.pdf
+testset/devicen.pdf
+[x] NO NEW KEYS: testset/devicen.pdf
+testset/file_pdfjs_test.pdf
+[x] NO NEW KEYS: testset/file_pdfjs_test.pdf
+testset/tracemonkey.pdf
+[x] NO NEW KEYS: testset/tracemonkey.pdf
+testset/annotation-polyline-polygon-without-appearance.pdf
+[x] NO NEW KEYS: testset/annotation-polyline-polygon-without-appearance.pdf
+testset/issue8960_reduced.pdf
+[x] NO NEW KEYS: testset/issue8960_reduced.pdf
+testset/issue14802.pdf
+[x] NO NEW KEYS: testset/issue14802.pdf
+testset/issue7544.pdf
+[x] NO NEW KEYS: testset/issue7544.pdf
+testset/bug1844583.pdf
+[x] NO NEW KEYS: testset/bug1844583.pdf
+testset/issue15092.pdf
+[x] NO NEW KEYS: testset/issue15092.pdf
+testset/bug1815476.pdf
+[x] NO NEW KEYS: testset/bug1815476.pdf
+testset/issue17147.pdf
+[x] NO NEW KEYS: testset/issue17147.pdf
+testset/pr6531_2.pdf
+[x] NO NEW KEYS: testset/pr6531_2.pdf
+testset/bug1782186.pdf
+[-] Bad PDF: testset/bug1782186.pdf
+testset/issue13271.pdf
+[x] NO NEW KEYS: testset/issue13271.pdf
+testset/calrgb.pdf
+[x] NO NEW KEYS: testset/calrgb.pdf
+testset/issue7665.pdf
+[x] NO NEW KEYS: testset/issue7665.pdf
+testset/issue6106.pdf
+[x] NO NEW KEYS: testset/issue6106.pdf
+testset/issue19120.pdf
+[x] NO NEW KEYS: testset/issue19120.pdf
+testset/bug894572.pdf
+[x] NO NEW KEYS: testset/bug894572.pdf
+testset/REDHAT-1531897-0.pdf
+[-] Bad PDF: testset/REDHAT-1531897-0.pdf
+testset/issue19517.pdf
+[x] NO NEW KEYS: testset/issue19517.pdf
+testset/issue9084.pdf
+[x] NO NEW KEYS: testset/issue9084.pdf
+testset/issue15910.pdf
+[x] NO NEW KEYS: testset/issue15910.pdf
+testset/issue6286.pdf
+[x] NO NEW KEYS: testset/issue6286.pdf
+testset/bug921409.pdf
+[x] NO NEW KEYS: testset/bug921409.pdf
+testset/issue5138.pdf
+[x] NO NEW KEYS: testset/issue5138.pdf
+testset/issue7855.pdf
+[x] NO NEW KEYS: testset/issue7855.pdf
+testset/bug1871353.pdf
+[x] NO NEW KEYS: testset/bug1871353.pdf
+testset/ContentStreamCycleType3insideType3.pdf
+[x] NO NEW KEYS: testset/ContentStreamCycleType3insideType3.pdf
+testset/Type3WordSpacing.pdf
+[x] NO NEW KEYS: testset/Type3WordSpacing.pdf
+testset/issue6931_reduced.pdf
+[x] NO NEW KEYS: testset/issue6931_reduced.pdf
+testset/close-path-bug.pdf
+[x] NO NEW KEYS: testset/close-path-bug.pdf
+testset/issue6127.pdf
+[x] NO NEW KEYS: testset/issue6127.pdf
+testset/ArabicCIDTrueType.pdf
+[x] NO NEW KEYS: testset/ArabicCIDTrueType.pdf
+testset/issue4668.pdf
+[x] NO NEW KEYS: testset/issue4668.pdf
+testset/issue3438.pdf
+[x] NO NEW KEYS: testset/issue3438.pdf
+testset/issue9252.pdf
+[x] NO NEW KEYS: testset/issue9252.pdf
+testset/issue2074.pdf
+[x] NO NEW KEYS: testset/issue2074.pdf
+testset/bug1770750.pdf
+[x] NO NEW KEYS: testset/bug1770750.pdf
+testset/issue8707.pdf
+[x] NO NEW KEYS: testset/issue8707.pdf
+testset/issue18072.pdf
+[x] NO NEW KEYS: testset/issue18072.pdf
+testset/issue5808.pdf
+[x] NO NEW KEYS: testset/issue5808.pdf
+testset/issue10438_reduced.pdf
+[x] NO NEW KEYS: testset/issue10438_reduced.pdf
+testset/bug868745.pdf
+[x] NO NEW KEYS: testset/bug868745.pdf
+testset/issue6068.pdf
+[x] NO NEW KEYS: testset/issue6068.pdf
+testset/issue19484_2.pdf
+[-] Bad PDF: testset/issue19484_2.pdf
+testset/issue4801.pdf
+[x] NO NEW KEYS: testset/issue4801.pdf
+testset/Test-plusminus.pdf
+[x] NO NEW KEYS: testset/Test-plusminus.pdf
+testset/bug1132849.pdf
+[x] NO NEW KEYS: testset/bug1132849.pdf
+testset/issue8424.pdf
+[x] NO NEW KEYS: testset/issue8424.pdf
+testset/bug1755507.pdf
+[x] NO NEW KEYS: testset/bug1755507.pdf
+testset/bug1186827.pdf
+[x] NO NEW KEYS: testset/bug1186827.pdf
+testset/issue8234.pdf
+[x] NO NEW KEYS: testset/issue8234.pdf
+testset/issue16063.pdf
+[x] NO NEW KEYS: testset/issue16063.pdf
+testset/bug1811694.pdf
+[x] NO NEW KEYS: testset/bug1811694.pdf
+testset/issue20232.pdf
+[x] NO NEW KEYS: testset/issue20232.pdf
+testset/issue6231_1.pdf
+[x] NO NEW KEYS: testset/issue6231_1.pdf
+testset/annotation-tx3.pdf
+[x] NO NEW KEYS: testset/annotation-tx3.pdf
+testset/empty.pdf
+[x] NO NEW KEYS: testset/empty.pdf
+testset/issue15096.pdf
+[x] NO NEW KEYS: testset/issue15096.pdf
+testset/bug1708041.pdf
+[x] NO NEW KEYS: testset/bug1708041.pdf
+testset/issue10388_reduced.pdf
+[x] NO NEW KEYS: testset/issue10388_reduced.pdf
+testset/bug854315.pdf
+[x] NO NEW KEYS: testset/bug854315.pdf
+testset/dates.pdf
+[x] NO NEW KEYS: testset/dates.pdf
+testset/bug866395.pdf
+[x] NO NEW KEYS: testset/bug866395.pdf
+testset/issue6010_1.pdf
+[-] Bad PDF: testset/issue6010_1.pdf
+testset/pr12564.pdf
+[x] NO NEW KEYS: testset/pr12564.pdf
+testset/issue13147.pdf
+[x] NO NEW KEYS: testset/issue13147.pdf
+testset/issue14847.pdf
+[x] NO NEW KEYS: testset/issue14847.pdf
+testset/issue18360.pdf
+[x] NO NEW KEYS: testset/issue18360.pdf
+testset/bug911034.pdf
+[x] NO NEW KEYS: testset/bug911034.pdf
+testset/pdfjs_wikipedia.pdf
+[x] NO NEW KEYS: testset/pdfjs_wikipedia.pdf
+testset/xref_command_missing.pdf
+[x] NO NEW KEYS: testset/xref_command_missing.pdf
+testset/issue19695.pdf
+[x] NO NEW KEYS: testset/issue19695.pdf
+testset/issue2128r.pdf
+[x] NO NEW KEYS: testset/issue2128r.pdf
+testset/issue5567.pdf
+[x] NO NEW KEYS: testset/issue5567.pdf
+testset/issue14999_reduced.pdf
+[x] NO NEW KEYS: testset/issue14999_reduced.pdf
+testset/bug1872721.pdf
+[x] NO NEW KEYS: testset/bug1872721.pdf
+testset/issue918.pdf
+[x] NO NEW KEYS: testset/issue918.pdf
+testset/resetform.pdf
+[x] NO NEW KEYS: testset/resetform.pdf
+testset/issue5549.pdf
+[x] NO NEW KEYS: testset/issue5549.pdf
+testset/annotation-tx2.pdf
+[x] NO NEW KEYS: testset/annotation-tx2.pdf
+testset/annotation-squiggly-without-appearance.pdf
+[x] NO NEW KEYS: testset/annotation-squiggly-without-appearance.pdf
+testset/issue5747.pdf
+[x] NO NEW KEYS: testset/issue5747.pdf
+testset/issue11016_reduced.pdf
+[x] NO NEW KEYS: testset/issue11016_reduced.pdf
+testset/160F-2019.pdf
+[x] NO NEW KEYS: testset/160F-2019.pdf
+testset/print_protection.pdf
+[-] Bad PDF: testset/print_protection.pdf
+testset/PDFBOX-3148-2-fuzzed.pdf
+[x] NO NEW KEYS: testset/PDFBOX-3148-2-fuzzed.pdf
+testset/issue18561.pdf
+[x] NO NEW KEYS: testset/issue18561.pdf
+testset/issue1055r.pdf
+[x] NO NEW KEYS: testset/issue1055r.pdf
+testset/issue7339_reduced.pdf
+[x] NO NEW KEYS: testset/issue7339_reduced.pdf
+testset/issue17069.pdf
+[x] NO NEW KEYS: testset/issue17069.pdf
+testset/issue18408_reduced.pdf
+[x] NO NEW KEYS: testset/issue18408_reduced.pdf
+testset/issue13226.pdf
+[x] NO NEW KEYS: testset/issue13226.pdf
+testset/filled-background.pdf
+[x] NO NEW KEYS: testset/filled-background.pdf
+testset/standard_fonts.pdf
+[x] NO NEW KEYS: testset/standard_fonts.pdf
+testset/issue6342.pdf
+[x] NO NEW KEYS: testset/issue6342.pdf
+testset/listbox_actions.pdf
+[x] NO NEW KEYS: testset/listbox_actions.pdf
+testset/issue2884_reduced.pdf
+[x] NO NEW KEYS: testset/issue2884_reduced.pdf
+testset/ThuluthFeatures.pdf
+[x] NO NEW KEYS: testset/ThuluthFeatures.pdf
+testset/issue9972-1.pdf
+[x] NO NEW KEYS: testset/issue9972-1.pdf
+testset/issue12337.pdf
+[x] NO NEW KEYS: testset/issue12337.pdf
+testset/bug1992868.pdf
+[x] NO NEW KEYS: testset/bug1992868.pdf
+testset/doc_actions.pdf
+[x] NO NEW KEYS: testset/doc_actions.pdf
+testset/issue11915.pdf
+[x] NO NEW KEYS: testset/issue11915.pdf
+testset/issue14755.pdf
+[x] NO NEW KEYS: testset/issue14755.pdf
+testset/issue8125.pdf
+[x] NO NEW KEYS: testset/issue8125.pdf
+testset/issue6894.pdf
+[x] NO NEW KEYS: testset/issue6894.pdf
+testset/operator-in-TJ-array.pdf
+[x] NO NEW KEYS: testset/operator-in-TJ-array.pdf
+testset/issue14267.pdf
+[x] NO NEW KEYS: testset/issue14267.pdf
+testset/issue16038.pdf
+[x] NO NEW KEYS: testset/issue16038.pdf
+testset/issue11045.pdf
+[x] NO NEW KEYS: testset/issue11045.pdf
+testset/annotation-caret-ink.pdf
+[x] NO NEW KEYS: testset/annotation-caret-ink.pdf
+testset/issue5501.pdf
+[x] NO NEW KEYS: testset/issue5501.pdf
+testset/bug1883609.pdf
+[x] NO NEW KEYS: testset/bug1883609.pdf
+testset/issue19424.pdf
+[x] NO NEW KEYS: testset/issue19424.pdf
+testset/issue5039.pdf
+[x] NO NEW KEYS: testset/issue5039.pdf
+testset/tracemonkey_with_annotations.pdf
+[x] NO NEW KEYS: testset/tracemonkey_with_annotations.pdf
+testset/issue4550.pdf
+[x] NO NEW KEYS: testset/issue4550.pdf
+testset/issue6901.pdf
+[x] NO NEW KEYS: testset/issue6901.pdf
+testset/issue17730.pdf
+[x] NO NEW KEYS: testset/issue17730.pdf
+testset/issue13242.pdf
+[x] NO NEW KEYS: testset/issue13242.pdf
+testset/widget_hidden_print.pdf
+[x] NO NEW KEYS: testset/widget_hidden_print.pdf
+testset/bug1724918.pdf
+[x] NO NEW KEYS: testset/bug1724918.pdf
+testset/issue4875.pdf
+[x] NO NEW KEYS: testset/issue4875.pdf
+testset/issue7835.pdf
+[x] NO NEW KEYS: testset/issue7835.pdf
+testset/issue4909.pdf
+[x] NO NEW KEYS: testset/issue4909.pdf
+testset/issue10339_reduced.pdf
+[x] NO NEW KEYS: testset/issue10339_reduced.pdf
+testset/issue14046.pdf
+[x] NO NEW KEYS: testset/issue14046.pdf
+testset/issue2176.pdf
+[x] NO NEW KEYS: testset/issue2176.pdf
+testset/bug1727053.pdf
+[x] NO NEW KEYS: testset/bug1727053.pdf
+testset/issue7872.pdf
+[x] NO NEW KEYS: testset/issue7872.pdf
+testset/poppler-91414-0-54.pdf
+[x] NO NEW KEYS: testset/poppler-91414-0-54.pdf
+testset/issue5734.pdf
+[x] NO NEW KEYS: testset/issue5734.pdf
+testset/issue1293r.pdf
+[x] NO NEW KEYS: testset/issue1293r.pdf
+testset/annotation-highlight-without-appearance.pdf
+[x] NO NEW KEYS: testset/annotation-highlight-without-appearance.pdf
+testset/issue11718_reduced.pdf
+[x] NO NEW KEYS: testset/issue11718_reduced.pdf
+testset/issue2017r.pdf
+[x] NO NEW KEYS: testset/issue2017r.pdf
+testset/issue15690.pdf
+[x] NO NEW KEYS: testset/issue15690.pdf
+testset/annotation-strikeout-without-appearance.pdf
+[x] NO NEW KEYS: testset/annotation-strikeout-without-appearance.pdf
+testset/firefox_logo.pdf
+[x] NO NEW KEYS: testset/firefox_logo.pdf
+testset/bug1937438_af_from_latex.pdf
+[x] NO NEW KEYS: testset/bug1937438_af_from_latex.pdf
+testset/noembed-sjis.pdf
+[x] NO NEW KEYS: testset/noembed-sjis.pdf
+testset/bug1844576.pdf
+[x] NO NEW KEYS: testset/bug1844576.pdf
+testset/inks_basic.pdf
+[x] NO NEW KEYS: testset/inks_basic.pdf
+testset/annotation-underline-without-appearance.pdf
+[x] NO NEW KEYS: testset/annotation-underline-without-appearance.pdf
+testset/bug816075.pdf
+[x] NO NEW KEYS: testset/bug816075.pdf
+testset/highlight_popup.pdf
+[x] NO NEW KEYS: testset/highlight_popup.pdf
+testset/issue3025.pdf
+[x] NO NEW KEYS: testset/issue3025.pdf
+testset/issue17998.pdf
+[x] NO NEW KEYS: testset/issue17998.pdf
+testset/bug852992_reduced.pdf
+[x] NO NEW KEYS: testset/bug852992_reduced.pdf
+testset/issue5599.pdf
+[x] NO NEW KEYS: testset/issue5599.pdf
+testset/issue12399_reduced.pdf
+[x] NO NEW KEYS: testset/issue12399_reduced.pdf
+testset/comments.pdf
+[x] NO NEW KEYS: testset/comments.pdf
+testset/scan-bad.pdf
+[x] NO NEW KEYS: testset/scan-bad.pdf
+testset/issue17215.pdf
+[x] NO NEW KEYS: testset/issue17215.pdf
+testset/rotation.pdf
+[x] NO NEW KEYS: testset/rotation.pdf
+testset/issue6099.pdf
+[x] NO NEW KEYS: testset/issue6099.pdf
+testset/franz_2.pdf
+[x] NO NEW KEYS: testset/franz_2.pdf
+testset/bug1942064.pdf
+[x] NO NEW KEYS: testset/bug1942064.pdf
+testset/issue6151.pdf
+[x] NO NEW KEYS: testset/issue6151.pdf
+testset/issue11931.pdf
+[x] NO NEW KEYS: testset/issue11931.pdf
+testset/issue1985.pdf
+[x] NO NEW KEYS: testset/issue1985.pdf
+testset/issue10542_reduced.pdf
+[x] NO NEW KEYS: testset/issue10542_reduced.pdf
+testset/issue11549_reduced.pdf
+[x] NO NEW KEYS: testset/issue11549_reduced.pdf
+testset/bug1980958.pdf
+[x] NO NEW KEYS: testset/bug1980958.pdf
+testset/bug1675139.pdf
+[x] NO NEW KEYS: testset/bug1675139.pdf
+testset/issue2391-1.pdf
+[x] NO NEW KEYS: testset/issue2391-1.pdf
+testset/cmykjpeg.pdf
+[x] NO NEW KEYS: testset/cmykjpeg.pdf
+testset/bug1922766.pdf
+[x] NO NEW KEYS: testset/bug1922766.pdf
+testset/bug1606566.pdf
+[x] NO NEW KEYS: testset/bug1606566.pdf
+testset/issue11477_reduced.pdf
+[x] NO NEW KEYS: testset/issue11477_reduced.pdf
+testset/issue4402_reduced.pdf
+[x] NO NEW KEYS: testset/issue4402_reduced.pdf
+testset/issue9972-3.pdf
+[x] NO NEW KEYS: testset/issue9972-3.pdf
+testset/issue8088.pdf
+[x] NO NEW KEYS: testset/issue8088.pdf
+testset/issue14297.pdf
+[x] NO NEW KEYS: testset/issue14297.pdf
+testset/issue7074_reduced.pdf
+[x] NO NEW KEYS: testset/issue7074_reduced.pdf
+testset/issue11713.pdf
+[x] NO NEW KEYS: testset/issue11713.pdf
+testset/issue16221.pdf
+[x] NO NEW KEYS: testset/issue16221.pdf
+testset/tracemonkey_with_editable_annotations.pdf
+[x] NO NEW KEYS: testset/tracemonkey_with_editable_annotations.pdf
+testset/issue13916.pdf
+[x] NO NEW KEYS: testset/issue13916.pdf
+testset/issue269_1.pdf
+[x] NO NEW KEYS: testset/issue269_1.pdf
+testset/bug1308536.pdf
+[x] NO NEW KEYS: testset/bug1308536.pdf
+testset/issue17871_top_right.pdf
+[x] NO NEW KEYS: testset/issue17871_top_right.pdf
+testset/issue12213.pdf
+[x] NO NEW KEYS: testset/issue12213.pdf
+testset/issue7769.pdf
+[x] NO NEW KEYS: testset/issue7769.pdf
+testset/issue4061.pdf
+[x] NO NEW KEYS: testset/issue4061.pdf
+testset/issue5804.pdf
+[x] NO NEW KEYS: testset/issue5804.pdf
+testset/issue6410.pdf
+[x] NO NEW KEYS: testset/issue6410.pdf
+testset/issue15262.pdf
+[x] NO NEW KEYS: testset/issue15262.pdf
+testset/annotation-strikeout.pdf
+[x] NO NEW KEYS: testset/annotation-strikeout.pdf
+testset/empty_protected.pdf
+[x] NO NEW KEYS: testset/empty_protected.pdf
+testset/issue6541.pdf
+[x] NO NEW KEYS: testset/issue6541.pdf
+testset/extgstate.pdf
+[x] NO NEW KEYS: testset/extgstate.pdf
+testset/ShowText-ShadingPattern.pdf
+[x] NO NEW KEYS: testset/ShowText-ShadingPattern.pdf
+testset/french_diacritics.pdf
+[x] NO NEW KEYS: testset/french_diacritics.pdf
+testset/issue19474.pdf
+[x] NO NEW KEYS: testset/issue19474.pdf
+testset/issue6298.pdf
+[x] NO NEW KEYS: testset/issue6298.pdf
+testset/issue10402.pdf
+[x] NO NEW KEYS: testset/issue10402.pdf
+testset/issue5896.pdf
+[x] NO NEW KEYS: testset/issue5896.pdf
+testset/issue12504.pdf
+[x] NO NEW KEYS: testset/issue12504.pdf
+testset/noembed-eucjp.pdf
+[x] NO NEW KEYS: testset/noembed-eucjp.pdf
+testset/issue15516_reduced.pdf
+[x] NO NEW KEYS: testset/issue15516_reduced.pdf
+testset/issue3214.pdf
+[x] NO NEW KEYS: testset/issue3214.pdf
+testset/issue9949.pdf
+[x] NO NEW KEYS: testset/issue9949.pdf
+testset/issue6019.pdf
+[x] NO NEW KEYS: testset/issue6019.pdf
+testset/issue18305.pdf
+[x] NO NEW KEYS: testset/issue18305.pdf
+testset/pdfkit_compressed.pdf
+[x] NO NEW KEYS: testset/pdfkit_compressed.pdf
+testset/bug1978317.pdf
+[x] NO NEW KEYS: testset/bug1978317.pdf
+testset/issue20319_1.pdf
+[x] NO NEW KEYS: testset/issue20319_1.pdf
+testset/issue17540.pdf
+[x] NO NEW KEYS: testset/issue17540.pdf
+testset/noembed-identity.pdf
+[x] NO NEW KEYS: testset/noembed-identity.pdf
+testset/bug1796741.pdf
+[x] NO NEW KEYS: testset/bug1796741.pdf
+testset/issue14821.pdf
+[x] NO NEW KEYS: testset/issue14821.pdf
+testset/bug1552113.pdf
+[x] NO NEW KEYS: testset/bug1552113.pdf
+testset/issue18529.pdf
+[x] NO NEW KEYS: testset/issue18529.pdf
+testset/issue6069.pdf
+[x] NO NEW KEYS: testset/issue6069.pdf
+testset/issue11403_reduced.pdf
+[x] NO NEW KEYS: testset/issue11403_reduced.pdf
+testset/issue11578_reduced.pdf
+[x] NO NEW KEYS: testset/issue11578_reduced.pdf
+testset/issue8372.pdf
+[x] NO NEW KEYS: testset/issue8372.pdf
+testset/issue6006.pdf
+[x] NO NEW KEYS: testset/issue6006.pdf
+testset/issue4650.pdf
+[x] NO NEW KEYS: testset/issue4650.pdf
+testset/issue8586.pdf
+[x] NO NEW KEYS: testset/issue8586.pdf
+testset/issue14502.pdf
+[x] NO NEW KEYS: testset/issue14502.pdf
+testset/issue4573.pdf
+[-] Bad PDF: testset/issue4573.pdf
+testset/issue6387.pdf
+[x] NO NEW KEYS: testset/issue6387.pdf
+testset/issue18956.pdf
+[x] NO NEW KEYS: testset/issue18956.pdf
+testset/decodeACSuccessive.pdf
+[x] NO NEW KEYS: testset/decodeACSuccessive.pdf
+testset/issue10640.pdf
+[x] NO NEW KEYS: testset/issue10640.pdf
+testset/issue12750.pdf
+[x] NO NEW KEYS: testset/issue12750.pdf
+testset/personwithdog.pdf
+[x] NO NEW KEYS: testset/personwithdog.pdf
+testset/issue7891_bc1.pdf
+[x] NO NEW KEYS: testset/issue7891_bc1.pdf
+testset/tracemonkey_annotation_on_page_8.pdf
+[x] NO NEW KEYS: testset/tracemonkey_annotation_on_page_8.pdf
+testset/issue9017_reduced.pdf
+[x] NO NEW KEYS: testset/issue9017_reduced.pdf
+testset/bug1065245.pdf
+[x] NO NEW KEYS: testset/bug1065245.pdf
+testset/bug1825002.pdf
+[x] NO NEW KEYS: testset/bug1825002.pdf
+testset/issue10084_reduced.pdf
+[x] NO NEW KEYS: testset/issue10084_reduced.pdf
+testset/bug1721218_reduced.pdf
+[x] NO NEW KEYS: testset/bug1721218_reduced.pdf
+testset/issue11124.pdf
+[x] NO NEW KEYS: testset/issue11124.pdf
+testset/issue11362.pdf
+[x] NO NEW KEYS: testset/issue11362.pdf
+testset/issue13003.pdf
+[x] NO NEW KEYS: testset/issue13003.pdf
+testset/js-buttons.pdf
+[x] NO NEW KEYS: testset/js-buttons.pdf
+testset/doc_3_3_pages.pdf
+[x] NO NEW KEYS: testset/doc_3_3_pages.pdf
+testset/multiple-filters-length-zero.pdf
+[x] NO NEW KEYS: testset/multiple-filters-length-zero.pdf
+testset/freetexts.pdf
+[x] NO NEW KEYS: testset/freetexts.pdf
+testset/annotation-text-without-popup.pdf
+[x] NO NEW KEYS: testset/annotation-text-without-popup.pdf
+testset/annotation-square-circle.pdf
+[x] NO NEW KEYS: testset/annotation-square-circle.pdf
+testset/issue9278.pdf
+[x] NO NEW KEYS: testset/issue9278.pdf
+testset/doc_2_3_pages.pdf
+[x] NO NEW KEYS: testset/doc_2_3_pages.pdf
+testset/js-colors.pdf
+[x] NO NEW KEYS: testset/js-colors.pdf
+testset/issue11131_reduced.pdf
+[x] NO NEW KEYS: testset/issue11131_reduced.pdf
+testset/bug1028735.pdf
+[x] NO NEW KEYS: testset/bug1028735.pdf
+testset/issue15441.pdf
+[x] NO NEW KEYS: testset/issue15441.pdf
+testset/issue13107_reduced.pdf
+[x] NO NEW KEYS: testset/issue13107_reduced.pdf
+testset/issue13372.pdf
+[x] NO NEW KEYS: testset/issue13372.pdf
+testset/pr4922.pdf
+[x] NO NEW KEYS: testset/pr4922.pdf
+testset/issue16500.pdf
+[x] NO NEW KEYS: testset/issue16500.pdf
+testset/gradientfill.pdf
+[x] NO NEW KEYS: testset/gradientfill.pdf
+testset/tiling-pattern-box.pdf
+[x] NO NEW KEYS: testset/tiling-pattern-box.pdf
+testset/issue14023.pdf
+[x] NO NEW KEYS: testset/issue14023.pdf
+testset/annotation-stamp.pdf
+[x] NO NEW KEYS: testset/annotation-stamp.pdf
+testset/issue9291.pdf
+[x] NO NEW KEYS: testset/issue9291.pdf
+testset/issue20062.pdf
+[x] NO NEW KEYS: testset/issue20062.pdf
+testset/bug859204.pdf
+[x] NO NEW KEYS: testset/bug859204.pdf
+testset/issue5256.pdf
+[x] NO NEW KEYS: testset/issue5256.pdf
+testset/issue14307.pdf
+[x] NO NEW KEYS: testset/issue14307.pdf
+testset/issue15150.pdf
+[x] NO NEW KEYS: testset/issue15150.pdf
+testset/bug1245391_reduced.pdf
+[x] NO NEW KEYS: testset/bug1245391_reduced.pdf
+testset/pdkids.pdf
+[x] NO NEW KEYS: testset/pdkids.pdf
+testset/bug1650302_reduced.pdf
+[x] NO NEW KEYS: testset/bug1650302_reduced.pdf
+testset/textfields.pdf
+[x] NO NEW KEYS: testset/textfields.pdf
+testset/sizes.pdf
+[x] NO NEW KEYS: testset/sizes.pdf
+testset/IndexedCS_negative_and_high.pdf
+[x] NO NEW KEYS: testset/IndexedCS_negative_and_high.pdf
+testset/issue14953.pdf
+[x] NO NEW KEYS: testset/issue14953.pdf
+testset/issue11473.pdf
+[x] NO NEW KEYS: testset/issue11473.pdf
+testset/issue19176.pdf
+[x] NO NEW KEYS: testset/issue19176.pdf
+testset/issue14862.pdf
+[x] NO NEW KEYS: testset/issue14862.pdf
+testset/issue4461.pdf
+[x] NO NEW KEYS: testset/issue4461.pdf
+testset/issue10529.pdf
+[x] NO NEW KEYS: testset/issue10529.pdf
+testset/issue18894.pdf
+[x] NO NEW KEYS: testset/issue18894.pdf
+testset/bug1627427_reduced.pdf
+[x] NO NEW KEYS: testset/bug1627427_reduced.pdf
+testset/issue10301.pdf
+[x] NO NEW KEYS: testset/issue10301.pdf
+testset/issue20319_2.pdf
+[x] NO NEW KEYS: testset/issue20319_2.pdf
+testset/issue5421.pdf
+[x] NO NEW KEYS: testset/issue5421.pdf
+testset/issue11651.pdf
+[x] NO NEW KEYS: testset/issue11651.pdf
+testset/issue7454.pdf
+[x] NO NEW KEYS: testset/issue7454.pdf
+testset/issue13211.pdf
+[x] NO NEW KEYS: testset/issue13211.pdf
+testset/pr20043.pdf
+[x] NO NEW KEYS: testset/pr20043.pdf
+testset/endchar.pdf
+[x] NO NEW KEYS: testset/endchar.pdf
+testset/tracemonkey_freetext.pdf
+[x] NO NEW KEYS: testset/tracemonkey_freetext.pdf
+testset/issue5972.pdf
+[x] NO NEW KEYS: testset/issue5972.pdf
+testset/annotation-tx.pdf
+[x] NO NEW KEYS: testset/annotation-tx.pdf
+testset/issue18693.pdf
+[x] NO NEW KEYS: testset/issue18693.pdf
+testset/issue10572.pdf
+[x] NO NEW KEYS: testset/issue10572.pdf
+testset/issue5954.pdf
+[x] NO NEW KEYS: testset/issue5954.pdf
+testset/bug1934157.pdf
+[x] NO NEW KEYS: testset/bug1934157.pdf
+testset/issue6113.pdf
+[x] NO NEW KEYS: testset/issue6113.pdf
+testset/prefilled_f1040.pdf
+[x] NO NEW KEYS: testset/prefilled_f1040.pdf
+testset/issue12810.pdf
+[x] NO NEW KEYS: testset/issue12810.pdf
+testset/bug793632.pdf
+[x] NO NEW KEYS: testset/bug793632.pdf
+testset/issue4684.pdf
+[x] NO NEW KEYS: testset/issue4684.pdf
+testset/issue12705.pdf
+[x] NO NEW KEYS: testset/issue12705.pdf
+testset/issue12706.pdf
+[x] NO NEW KEYS: testset/issue12706.pdf
+testset/issue4246.pdf
+[x] NO NEW KEYS: testset/issue4246.pdf
+testset/issue13193.pdf
+[x] NO NEW KEYS: testset/issue13193.pdf
+testset/issue19239.pdf
+[x] NO NEW KEYS: testset/issue19239.pdf
+testset/issue13201.pdf
+[x] NO NEW KEYS: testset/issue13201.pdf
+testset/issue17846.pdf
+[x] NO NEW KEYS: testset/issue17846.pdf
+testset/issue6081.pdf
+[x] NO NEW KEYS: testset/issue6081.pdf
+testset/issue11656.pdf
+[x] NO NEW KEYS: testset/issue11656.pdf
+testset/autoprint.pdf
+[x] NO NEW KEYS: testset/autoprint.pdf
+testset/issue6889.pdf
+[x] NO NEW KEYS: testset/issue6889.pdf
+testset/blendmode.pdf
+[x] NO NEW KEYS: testset/blendmode.pdf
+testset/issue8229.pdf
+[x] NO NEW KEYS: testset/issue8229.pdf
+testset/issue9262_reduced.pdf
+[x] NO NEW KEYS: testset/issue9262_reduced.pdf
+testset/bigboundingbox.pdf
+[x] NO NEW KEYS: testset/bigboundingbox.pdf
+testset/issue8798r.pdf
+[x] NO NEW KEYS: testset/issue8798r.pdf
+testset/structure_simple.pdf
+[x] NO NEW KEYS: testset/structure_simple.pdf
+testset/issue3879r.pdf
+[x] NO NEW KEYS: testset/issue3879r.pdf
+testset/issue15629.pdf
+[x] NO NEW KEYS: testset/issue15629.pdf
+testset/issue19484_1.pdf
+[-] Bad PDF: testset/issue19484_1.pdf
+testset/issue17929.pdf
+[x] NO NEW KEYS: testset/issue17929.pdf
+testset/issue4379.pdf
+[x] NO NEW KEYS: testset/issue4379.pdf
+testset/issue5470.pdf
+[x] NO NEW KEYS: testset/issue5470.pdf
+testset/tracemonkey_a11y.pdf
+[x] NO NEW KEYS: testset/tracemonkey_a11y.pdf
+testset/bug1019475_2.pdf
+[x] NO NEW KEYS: testset/bug1019475_2.pdf
+testset/highlight.pdf
+[x] NO NEW KEYS: testset/highlight.pdf
+testset/issue19633.pdf
+[x] NO NEW KEYS: testset/issue19633.pdf
+testset/issue17679_2.pdf
+[x] NO NEW KEYS: testset/issue17679_2.pdf
+testset/issue14048.pdf
+[x] NO NEW KEYS: testset/issue14048.pdf
+testset/issue2840.pdf
+[x] NO NEW KEYS: testset/issue2840.pdf
+testset/issue16263.pdf
+[x] NO NEW KEYS: testset/issue16263.pdf
+testset/PDFJS-7562-reduced.pdf
+[x] NO NEW KEYS: testset/PDFJS-7562-reduced.pdf
+testset/issue16067.pdf
+[x] NO NEW KEYS: testset/issue16067.pdf
+testset/xobject-image.pdf
+[x] NO NEW KEYS: testset/xobject-image.pdf
+testset/ccitt_EndOfBlock_false.pdf
+[x] NO NEW KEYS: testset/ccitt_EndOfBlock_false.pdf
+testset/bug1019475_1.pdf
+[x] NO NEW KEYS: testset/bug1019475_1.pdf
+testset/rc_annotation.pdf
+[x] NO NEW KEYS: testset/rc_annotation.pdf
+testset/issue4436r.pdf
+[x] NO NEW KEYS: testset/issue4436r.pdf
+testset/issue7696.pdf
+[x] NO NEW KEYS: testset/issue7696.pdf
+testset/issue5280.pdf
+[x] NO NEW KEYS: testset/issue5280.pdf
+testset/issue2931.pdf
+[x] NO NEW KEYS: testset/issue2931.pdf
+testset/visibility_expressions.pdf
+[x] NO NEW KEYS: testset/visibility_expressions.pdf
+testset/IdentityToUnicodeMap_charCodeOf.pdf
+[x] NO NEW KEYS: testset/IdentityToUnicodeMap_charCodeOf.pdf
+testset/issue6204.pdf
+[x] NO NEW KEYS: testset/issue6204.pdf
+testset/issue8480.pdf
+[x] NO NEW KEYS: testset/issue8480.pdf
+testset/issue3371.pdf
+[-] Bad PDF: testset/issue3371.pdf
+testset/tagged_stamp.pdf
+[x] NO NEW KEYS: testset/tagged_stamp.pdf
+testset/issue6621.pdf
+[x] NO NEW KEYS: testset/issue6621.pdf
+testset/bug1539074.pdf
+[x] NO NEW KEYS: testset/bug1539074.pdf
+testset/issue9418.pdf
+[-] Bad PDF: testset/issue9418.pdf
+testset/issue4706.pdf
+[x] NO NEW KEYS: testset/issue4706.pdf
+testset/issue6962.pdf
+[x] NO NEW KEYS: testset/issue6962.pdf
+testset/issue5084.pdf
+[x] NO NEW KEYS: testset/issue5084.pdf
+testset/issue5475.pdf
+[x] NO NEW KEYS: testset/issue5475.pdf
+testset/bug903856.pdf
+[x] NO NEW KEYS: testset/bug903856.pdf
+testset/issue5994.pdf
+[x] NO NEW KEYS: testset/issue5994.pdf
+testset/issue15818.pdf
+[x] NO NEW KEYS: testset/issue15818.pdf
+testset/clippath.pdf
+[x] NO NEW KEYS: testset/clippath.pdf
+testset/issue11555.pdf
+[x] NO NEW KEYS: testset/issue11555.pdf
+testset/issue15557.pdf
+[x] NO NEW KEYS: testset/issue15557.pdf
+testset/issue2833.pdf
+[x] NO NEW KEYS: testset/issue2833.pdf
+testset/issue3566.pdf
+[x] NO NEW KEYS: testset/issue3566.pdf
+testset/TrueType_without_cmap.pdf
+[x] NO NEW KEYS: testset/TrueType_without_cmap.pdf
+testset/highlights.pdf
+[x] NO NEW KEYS: testset/highlights.pdf
+testset/canvas.pdf
+[x] NO NEW KEYS: testset/canvas.pdf
+testset/issue14881.pdf
+[x] NO NEW KEYS: testset/issue14881.pdf
+testset/issue845r.pdf
+[x] NO NEW KEYS: testset/issue845r.pdf
+testset/issue19848.pdf
+[x] NO NEW KEYS: testset/issue19848.pdf
+testset/bug1669097.pdf
+[x] NO NEW KEYS: testset/bug1669097.pdf
+testset/bug893730.pdf
+[x] NO NEW KEYS: testset/bug893730.pdf
+testset/poppler-85140-0.pdf
+[-] Bad PDF: testset/poppler-85140-0.pdf
+testset/evaljs.pdf
+[x] NO NEW KEYS: testset/evaljs.pdf
+testset/issue7439.pdf
+[x] NO NEW KEYS: testset/issue7439.pdf
+testset/issue7020.pdf
+[x] NO NEW KEYS: testset/issue7020.pdf
+testset/bug1868759.pdf
+[x] NO NEW KEYS: testset/bug1868759.pdf
+testset/issue1655r.pdf
+[x] NO NEW KEYS: testset/issue1655r.pdf
+testset/issue8565.pdf
+[x] NO NEW KEYS: testset/issue8565.pdf
+testset/issue5677.pdf
+[x] NO NEW KEYS: testset/issue5677.pdf
+testset/annotation_hidden_noview.pdf
+[x] NO NEW KEYS: testset/annotation_hidden_noview.pdf
+testset/bug1811668_reduced.pdf
+[-] Bad PDF: testset/bug1811668_reduced.pdf
+testset/images_1bit_grayscale.pdf
+[x] NO NEW KEYS: testset/images_1bit_grayscale.pdf
+testset/issue6782.pdf
+[x] NO NEW KEYS: testset/issue6782.pdf
+testset/issue4722.pdf
+[x] NO NEW KEYS: testset/issue4722.pdf
+testset/issue9713.pdf
+[x] NO NEW KEYS: testset/issue9713.pdf
+testset/issue20065.pdf
+[x] NO NEW KEYS: testset/issue20065.pdf
+testset/issue4934.pdf
+[x] NO NEW KEYS: testset/issue4934.pdf
+testset/issue15977_reduced.pdf
+[x] NO NEW KEYS: testset/issue15977_reduced.pdf
+testset/rotated_freetexts.pdf
+[x] NO NEW KEYS: testset/rotated_freetexts.pdf
+testset/chrome-text-selection-markedContent.pdf
+[x] NO NEW KEYS: testset/chrome-text-selection-markedContent.pdf
+testset/issue3207r.pdf
+[x] NO NEW KEYS: testset/issue3207r.pdf
+testset/bug1953099.pdf
+[x] NO NEW KEYS: testset/bug1953099.pdf
+testset/bad-PageLabels.pdf
+[x] NO NEW KEYS: testset/bad-PageLabels.pdf
+testset/issue4304.pdf
+[x] NO NEW KEYS: testset/issue4304.pdf
+testset/annotation-freetext.pdf
+[x] NO NEW KEYS: testset/annotation-freetext.pdf
+testset/bug1020226.pdf
+[-] Bad PDF: testset/bug1020226.pdf
+testset/issue9915_reduced.pdf
+[x] NO NEW KEYS: testset/issue9915_reduced.pdf
+testset/issue8097_reduced.pdf
+[x] NO NEW KEYS: testset/issue8097_reduced.pdf
+testset/issue7878.pdf
+[x] NO NEW KEYS: testset/issue7878.pdf
+testset/colorkeymask.pdf
+[x] NO NEW KEYS: testset/colorkeymask.pdf
+testset/fraction-highlight.pdf
+[x] NO NEW KEYS: testset/fraction-highlight.pdf
+testset/bug1473809.pdf
+[x] NO NEW KEYS: testset/bug1473809.pdf
+testset/issue17056.pdf
+[x] NO NEW KEYS: testset/issue17056.pdf
+testset/issue19389.pdf
+[x] NO NEW KEYS: testset/issue19389.pdf
+testset/issue15590.pdf
+[-] Bad PDF: testset/issue15590.pdf
+testset/issue4881.pdf
+[x] NO NEW KEYS: testset/issue4881.pdf
+testset/issue18911.pdf
+[x] NO NEW KEYS: testset/issue18911.pdf
+testset/issue18059.pdf
+[x] NO NEW KEYS: testset/issue18059.pdf
+testset/type4psfunc.pdf
+[x] NO NEW KEYS: testset/type4psfunc.pdf
+testset/text_clip_cff_cid.pdf
+[x] NO NEW KEYS: testset/text_clip_cff_cid.pdf
+testset/issue1045.pdf
+[x] NO NEW KEYS: testset/issue1045.pdf
+testset/multiline.pdf
+[x] NO NEW KEYS: testset/multiline.pdf
+testset/issue6413.pdf
+[x] NO NEW KEYS: testset/issue6413.pdf
+testset/issue3694_reduced.pdf
+[x] NO NEW KEYS: testset/issue3694_reduced.pdf
+testset/issue5334.pdf
+[x] NO NEW KEYS: testset/issue5334.pdf
+testset/issue11697_reduced.pdf
+[x] NO NEW KEYS: testset/issue11697_reduced.pdf
+testset/pr6531_1.pdf
+[-] Bad PDF: testset/pr6531_1.pdf
+testset/GHOSTSCRIPT-698804-1-fuzzed.pdf
+[x] NO NEW KEYS: testset/GHOSTSCRIPT-698804-1-fuzzed.pdf
+testset/issue3323.pdf
+[x] NO NEW KEYS: testset/issue3323.pdf
+testset/issue1453.pdf
+[x] NO NEW KEYS: testset/issue1453.pdf
+testset/issue5481.pdf
+[x] NO NEW KEYS: testset/issue5481.pdf
+testset/boundingBox_invalid.pdf
+[x] NO NEW KEYS: testset/boundingBox_invalid.pdf
+testset/bug946506.pdf
+[x] NO NEW KEYS: testset/bug946506.pdf
+testset/file_pdfjs_form.pdf
+[x] NO NEW KEYS: testset/file_pdfjs_form.pdf
+testset/issue2956.pdf
+[x] NO NEW KEYS: testset/issue2956.pdf
+testset/annotation-link-text-popup.pdf
+[x] NO NEW KEYS: testset/annotation-link-text-popup.pdf
+testset/issue4260_reduced.pdf
+[x] NO NEW KEYS: testset/issue4260_reduced.pdf
+testset/bug1703683_page2_reduced.pdf
+[x] NO NEW KEYS: testset/bug1703683_page2_reduced.pdf
+testset/issue15815.pdf
+[x] NO NEW KEYS: testset/issue15815.pdf
+testset/issue5291.pdf
+[x] NO NEW KEYS: testset/issue5291.pdf
+testset/zerowidthline.pdf
+[x] NO NEW KEYS: testset/zerowidthline.pdf
+testset/issue3061.pdf
+[x] NO NEW KEYS: testset/issue3061.pdf
+testset/issue18042.pdf
+[x] NO NEW KEYS: testset/issue18042.pdf
+testset/bug1157493.pdf
+[x] NO NEW KEYS: testset/bug1157493.pdf
+testset/issue9105_reduced.pdf
+[x] NO NEW KEYS: testset/issue9105_reduced.pdf
+testset/issue19326.pdf
+[x] NO NEW KEYS: testset/issue19326.pdf
+testset/issue14256.pdf
+[x] NO NEW KEYS: testset/issue14256.pdf
+testset/issue5564_reduced.pdf
+[x] NO NEW KEYS: testset/issue5564_reduced.pdf
+testset/issue15053.pdf
+[x] NO NEW KEYS: testset/issue15053.pdf
+testset/coons-allflags-withfunction.pdf
+[x] NO NEW KEYS: testset/coons-allflags-withfunction.pdf
+testset/issue16224.pdf
+[x] NO NEW KEYS: testset/issue16224.pdf
+testset/annotation-border-styles.pdf
+[x] NO NEW KEYS: testset/annotation-border-styles.pdf
+testset/bug920426.pdf
+[x] NO NEW KEYS: testset/bug920426.pdf
+testset/issue4630.pdf
+[x] NO NEW KEYS: testset/issue4630.pdf
+testset/javauninstall-7r.pdf
+[x] NO NEW KEYS: testset/javauninstall-7r.pdf
+testset/ContentStreamNoCycleType3insideType3.pdf
+[x] NO NEW KEYS: testset/ContentStreamNoCycleType3insideType3.pdf
+testset/bug1337429.pdf
+[x] NO NEW KEYS: testset/bug1337429.pdf
+testset/empty#hash.pdf
+[x] NO NEW KEYS: testset/empty#hash.pdf
+testset/issue9972-2.pdf
+[x] NO NEW KEYS: testset/issue9972-2.pdf
+testset/issue18816.pdf
+[x] NO NEW KEYS: testset/issue18816.pdf
+testset/issue2761.pdf
+[x] NO NEW KEYS: testset/issue2761.pdf
+testset/bug1050040.pdf
+[x] NO NEW KEYS: testset/bug1050040.pdf
+testset/annotation-ink-without-appearance.pdf
+[x] NO NEW KEYS: testset/annotation-ink-without-appearance.pdf
+testset/bug1027533.pdf
+[x] NO NEW KEYS: testset/bug1027533.pdf
+testset/issue14618.pdf
+[x] NO NEW KEYS: testset/issue14618.pdf
+testset/issue16021.pdf
+[x] NO NEW KEYS: testset/issue16021.pdf
+testset/pdfjsbad1586.pdf
+[x] NO NEW KEYS: testset/pdfjsbad1586.pdf
+testset/bug900822.pdf
+[x] NO NEW KEYS: testset/bug900822.pdf
+testset/bug1108301.pdf
+[x] NO NEW KEYS: testset/bug1108301.pdf
+testset/issue1350.pdf
+[x] NO NEW KEYS: testset/issue1350.pdf
+testset/bug1529502.pdf
+[x] NO NEW KEYS: testset/bug1529502.pdf
+testset/issue9940.pdf
+[x] NO NEW KEYS: testset/issue9940.pdf
+testset/pr12828.pdf
+[x] NO NEW KEYS: testset/pr12828.pdf
+testset/issue18536.pdf
+[x] NO NEW KEYS: testset/issue18536.pdf
+testset/pattern_text_embedded_font.pdf
+[x] NO NEW KEYS: testset/pattern_text_embedded_font.pdf
+testset/issue3205r.pdf
+[x] NO NEW KEYS: testset/issue3205r.pdf
+testset/bug1001080.pdf
+[x] NO NEW KEYS: testset/bug1001080.pdf
+testset/annotation-squiggly.pdf
+[x] NO NEW KEYS: testset/annotation-squiggly.pdf
+testset/issue8795_reduced.pdf
+[x] NO NEW KEYS: testset/issue8795_reduced.pdf
+testset/bug1937438_mml_from_latex.pdf
+[x] NO NEW KEYS: testset/bug1937438_mml_from_latex.pdf
+testset/issue17808.pdf
+[x] NO NEW KEYS: testset/issue17808.pdf
+testset/poppler-91414-0-53.pdf
+[x] NO NEW KEYS: testset/poppler-91414-0-53.pdf
+testset/annotation-polyline-polygon.pdf
+[x] NO NEW KEYS: testset/annotation-polyline-polygon.pdf
+testset/bug1743245.pdf
+[x] NO NEW KEYS: testset/bug1743245.pdf
+testset/issue5874.pdf
+[x] NO NEW KEYS: testset/issue5874.pdf
+testset/bug898853.pdf
+[x] NO NEW KEYS: testset/bug898853.pdf
+testset/issue1155r.pdf
+[x] NO NEW KEYS: testset/issue1155r.pdf
+testset/issue6769_no_matrix.pdf
+[x] NO NEW KEYS: testset/issue6769_no_matrix.pdf
+testset/zero_descent.pdf
+[x] NO NEW KEYS: testset/zero_descent.pdf
+testset/issue17871_bottom_right.pdf
+[x] NO NEW KEYS: testset/issue17871_bottom_right.pdf
+testset/issue12841_reduced.pdf
+[x] NO NEW KEYS: testset/issue12841_reduced.pdf
+testset/bug1669099.pdf
+[x] NO NEW KEYS: testset/bug1669099.pdf
+testset/bug1068432.pdf
+[x] NO NEW KEYS: testset/bug1068432.pdf
+testset/issue840.pdf
+[x] NO NEW KEYS: testset/issue840.pdf
+testset/issue16553.pdf
+[x] NO NEW KEYS: testset/issue16553.pdf
+testset/issue13447.pdf
+[x] NO NEW KEYS: testset/issue13447.pdf
+testset/issue7507.pdf
+[x] NO NEW KEYS: testset/issue7507.pdf
+testset/issue7901.pdf
+[x] NO NEW KEYS: testset/issue7901.pdf
+testset/font_ascent_descent.pdf
+[x] NO NEW KEYS: testset/font_ascent_descent.pdf
+testset/issue2948.pdf
+[x] NO NEW KEYS: testset/issue2948.pdf
+testset/issue15340.pdf
+[x] NO NEW KEYS: testset/issue15340.pdf
+testset/jp2k-resetprob.pdf
+[x] NO NEW KEYS: testset/jp2k-resetprob.pdf
+testset/franz.pdf
+[x] NO NEW KEYS: testset/franz.pdf
+testset/mmtype1.pdf
+[x] NO NEW KEYS: testset/mmtype1.pdf
+testset/paragraph_and_link.pdf
+[x] NO NEW KEYS: testset/paragraph_and_link.pdf
+testset/issue16287.pdf
+[x] NO NEW KEYS: testset/issue16287.pdf
+testset/find_all.pdf
+[x] NO NEW KEYS: testset/find_all.pdf
+testset/issue7200.pdf
+[x] NO NEW KEYS: testset/issue7200.pdf
+testset/issue3584.pdf
+[x] NO NEW KEYS: testset/issue3584.pdf
+testset/issue3188.pdf
+[x] NO NEW KEYS: testset/issue3188.pdf
+testset/issue13343.pdf
+[x] NO NEW KEYS: testset/issue13343.pdf
+testset/issue6721_reduced.pdf
+[x] NO NEW KEYS: testset/issue6721_reduced.pdf
+testset/issue13561_reduced.pdf
+[x] NO NEW KEYS: testset/issue13561_reduced.pdf
+testset/issue8697.pdf
+[x] NO NEW KEYS: testset/issue8697.pdf
+testset/labelled_pages.pdf
+[x] NO NEW KEYS: testset/labelled_pages.pdf
+testset/issue19532.pdf
+[x] NO NEW KEYS: testset/issue19532.pdf
+testset/issue13316_reduced.pdf
+[x] NO NEW KEYS: testset/issue13316_reduced.pdf
+testset/bug1865341.pdf
+[x] NO NEW KEYS: testset/bug1865341.pdf
+testset/bug1538111.pdf
+[x] NO NEW KEYS: testset/bug1538111.pdf
+testset/issue11279.pdf
+[x] NO NEW KEYS: testset/issue11279.pdf
+testset/issue3885.pdf
+[x] NO NEW KEYS: testset/issue3885.pdf
+testset/issue1171.pdf
+[x] NO NEW KEYS: testset/issue1171.pdf
+testset/issue15789.pdf
+[x] NO NEW KEYS: testset/issue15789.pdf
+testset/bug864847.pdf
+[x] NO NEW KEYS: testset/bug864847.pdf
+testset/issue13325_reduced.pdf
+[x] NO NEW KEYS: testset/issue13325_reduced.pdf
+testset/issue7426.pdf
+[x] NO NEW KEYS: testset/issue7426.pdf
+testset/bug1671312_ArialNarrow.pdf
+[x] NO NEW KEYS: testset/bug1671312_ArialNarrow.pdf
+testset/issue12120_reduced.pdf
+[x] NO NEW KEYS: testset/issue12120_reduced.pdf
+testset/issue17679.pdf
+[x] NO NEW KEYS: testset/issue17679.pdf
+testset/issue12823.pdf
+[x] NO NEW KEYS: testset/issue12823.pdf
+testset/issue2462.pdf
+[x] NO NEW KEYS: testset/issue2462.pdf
+testset/issue14462_reduced.pdf
+[x] NO NEW KEYS: testset/issue14462_reduced.pdf
+testset/red_stamp.pdf
+[x] NO NEW KEYS: testset/red_stamp.pdf
+testset/two_paragraphs.pdf
+[x] NO NEW KEYS: testset/two_paragraphs.pdf
+testset/issue7446.pdf
+[x] NO NEW KEYS: testset/issue7446.pdf
+testset/issue16633.pdf
+[x] NO NEW KEYS: testset/issue16633.pdf
+testset/issue4665.pdf
+[x] NO NEW KEYS: testset/issue4665.pdf
+testset/issue8276_reduced.pdf
+[x] NO NEW KEYS: testset/issue8276_reduced.pdf
+testset/tensor-allflags-withfunction.pdf
+[x] NO NEW KEYS: testset/tensor-allflags-withfunction.pdf
+testset/bug1671312_reduced.pdf
+[x] NO NEW KEYS: testset/bug1671312_reduced.pdf
+testset/bug1918115.pdf
+[x] NO NEW KEYS: testset/bug1918115.pdf
+testset/smaskdim.pdf
+[x] NO NEW KEYS: testset/smaskdim.pdf
+testset/bug1200096.pdf
+[x] NO NEW KEYS: testset/bug1200096.pdf
+testset/issue8702.pdf
+[x] NO NEW KEYS: testset/issue8702.pdf
+testset/issue5238.pdf
+[x] NO NEW KEYS: testset/issue5238.pdf
+testset/issue11913.pdf
+[x] NO NEW KEYS: testset/issue11913.pdf
+testset/issue6132.pdf
+[x] NO NEW KEYS: testset/issue6132.pdf
+testset/issue15597.pdf
+[x] NO NEW KEYS: testset/issue15597.pdf
+testset/issue10665_reduced.pdf
+[x] NO NEW KEYS: testset/issue10665_reduced.pdf
+testset/issue5701.pdf
+[x] NO NEW KEYS: testset/issue5701.pdf
+testset/freetext_no_appearance.pdf
+[x] NO NEW KEYS: testset/freetext_no_appearance.pdf
+testset/issue4575.pdf
+[x] NO NEW KEYS: testset/issue4575.pdf
+testset/issue3458.pdf
+[x] NO NEW KEYS: testset/issue3458.pdf
+testset/issue20324.pdf
+[x] NO NEW KEYS: testset/issue20324.pdf
+testset/issue8061.pdf
+[x] NO NEW KEYS: testset/issue8061.pdf
+testset/annotation-square-circle-without-appearance.pdf
+[x] NO NEW KEYS: testset/annotation-square-circle-without-appearance.pdf
+testset/issue12963.pdf
+[x] NO NEW KEYS: testset/issue12963.pdf
+testset/arial_unicode_ab_cidfont.pdf
+[x] NO NEW KEYS: testset/arial_unicode_ab_cidfont.pdf
+testset/poppler-937-0-fuzzed.pdf
+[-] Bad PDF: testset/poppler-937-0-fuzzed.pdf
+testset/bug1863910.pdf
+[x] NO NEW KEYS: testset/bug1863910.pdf
+testset/issue5946.pdf
+[x] NO NEW KEYS: testset/issue5946.pdf
+testset/issue11740_reduced.pdf
+[x] NO NEW KEYS: testset/issue11740_reduced.pdf
+testset/bug1974436.pdf
+[x] NO NEW KEYS: testset/bug1974436.pdf
+testset/vertical.pdf
+[x] NO NEW KEYS: testset/vertical.pdf
+testset/issue11442_reduced.pdf
+[x] NO NEW KEYS: testset/issue11442_reduced.pdf
+testset/mixedfonts.pdf
+[x] NO NEW KEYS: testset/mixedfonts.pdf
+testset/cid_cff.pdf
+[x] NO NEW KEYS: testset/cid_cff.pdf
+testset/issue11878.pdf
+[x] NO NEW KEYS: testset/issue11878.pdf
