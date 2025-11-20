@@ -48,6 +48,7 @@ def extract_keys(path):
     for obj in list(pdf.objects)[:MAX_OBJECTS]:
         if isinstance(obj, pikepdf.Dictionary):
             for key in obj.keys():
+                print("key: "+str(key))
                 if isinstance(key, pikepdf.Name):
                     newkeys.add(str(key))
 
