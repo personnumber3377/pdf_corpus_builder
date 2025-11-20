@@ -8,7 +8,8 @@ CX = os.getenv("GOOGLE_CX")
 OUT = Path("data/url_queue.txt")
 OUT.parent.mkdir(parents=True, exist_ok=True)
 
-QUERY = "filetype:pdf test suite pdf specification example sample fuzz"
+# QUERY = "filetype:pdf test suite pdf specification example sample fuzz earnings example test report pricing"
+QUERY = "filetype:pdf test suite pdf specification example"
 NUM = 10  # results per page, max 10
 
 def search(query, start=1):
@@ -20,6 +21,7 @@ def search(query, start=1):
         "start": start,
     }
     r = requests.get(url, params=params).json()
+    print(r)
     if "items" not in r:
         return []
 
@@ -32,9 +34,13 @@ def search(query, start=1):
     return results
 
 
+MAX_PAGE = 10000
+
+LIST_LEN = 1000
+
 def main():
     with open(OUT, "a") as f:
-        for start in [1, 11, 21, 31, 41]:
+        for start in list(range(1, MAX_PAGE, int(MAX_PAGE / LIST_LEN))):  # sorted(list(random.randrange(1, MAX_PAGE) for _ in range(LIST_LEN))) # [1, 11, 21, 31, 41]:
             results = search(QUERY, start)
             for link in results:
                 print("Found:", link)
